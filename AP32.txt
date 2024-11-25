@@ -1,6 +1,6 @@
 1-grep  agujero anillo.txt
-2-
-3-
+2-grep -i Idem anillo.txt
+3-grep -w  anillo  anillo.txt
 4-
 5-
 6-
