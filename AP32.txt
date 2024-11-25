@@ -2,7 +2,7 @@
 2-grep -i Idem anillo.txt
 3-grep -w  anillo  anillo.txt
 4-grep -w -i -n -v anillo anillo.txt
-5-
+5-grep -a Frodo anillo.txt
 6-
 7-
 8-
