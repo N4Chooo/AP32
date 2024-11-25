@@ -3,7 +3,7 @@
 3-grep -w  anillo  anillo.txt
 4-grep -w -i -n -v anillo anillo.txt
 5-grep -a Frodo anillo.txt
-6-
+6-grep -b Mordor anillo.txt
 7-
 8-
 9-
