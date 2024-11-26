@@ -1,7 +1,7 @@
 1-grep  agujero anillo.txt
 2-grep -i Idem anillo.txt
 3-grep -w  anillo  anillo.txt
-4-grep -w -i -n -v anillo anillo.txt
+4-grep -i -n -v anillo anillo.txt
 5-grep -A Frodo anillo.txt
 6-grep -B Mordor anillo.txt
 7-grep ue anillo.txt
