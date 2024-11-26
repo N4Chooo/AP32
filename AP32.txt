@@ -4,7 +4,7 @@
 4-grep -i -n -v anillo anillo.txt
 5-grep -A "^Frodo" anillo.txt
 6-grep "Mordor.$" anillo.txt
-7-grep ue anillo.txt
+7-grep -w "[qf]ue" anillo.txt
 8-grep -w -B2 elfo anillo.txt
 9-grep -i -w -A1 compañia anillo.txt
 10-grep -e "Gandalf" -e "Gris" anillo.txt
